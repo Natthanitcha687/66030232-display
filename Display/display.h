@@ -31,5 +31,4 @@ void display_clear_screen(void);
 #ifdef __cplusplus
 }
 #endif
-
 #endif // DISPLAY_H
